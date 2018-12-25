@@ -1,0 +1,2 @@
+# Technews
+just for learning
